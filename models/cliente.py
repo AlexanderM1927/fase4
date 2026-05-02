@@ -1,6 +1,6 @@
 import re
 from models.entidad import Entidad
-from models.excepciones import ClienteInvalidoError, ParametroFaltanteError
+from models.exceptions import ClienteInvalidoError, ParametroFaltanteError
 
 
 class Cliente(Entidad):

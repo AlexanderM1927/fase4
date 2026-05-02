@@ -1,5 +1,5 @@
 from models.reserva import Reserva, EstadoReserva
-from models.excepciones import ReservaInvalidaError, ParametroFaltanteError
+from models.exceptions import ReservaInvalidaError, ParametroFaltanteError
 
 
 class GestorReservas:

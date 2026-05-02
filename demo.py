@@ -12,7 +12,7 @@ Demuestra:
 """
 
 from models.servicio import SalaReuniones, AlquilerEquipo, Asesoria
-from models.excepciones import SoftwareFJError
+from models.exceptions import SoftwareFJError
 from utils import log_info, log_error, log_warning
 
 

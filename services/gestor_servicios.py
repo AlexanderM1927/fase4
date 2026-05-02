@@ -1,5 +1,5 @@
 from models.servicio import Servicio
-from models.excepciones import ServicioInvalidoError, ParametroFaltanteError, ServicioDuplicadoError
+from models.exceptions import ServicioInvalidoError, ParametroFaltanteError, ServicioDuplicadoError
 
 
 class GestorServicios:

@@ -1,5 +1,5 @@
 from datetime import datetime
-from models.excepciones import (
+from models.exceptions import (
     ReservaInvalidaError,
     ReservaNoPermitidaError,
     ParametroFaltanteError,

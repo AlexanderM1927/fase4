@@ -1,6 +1,6 @@
 from abc import abstractmethod
 from models.entidad import Entidad
-from models.excepciones import (
+from models.exceptions import (
     ServicioInvalidoError,
     DuracionInvalidaError,
     ParametroFaltanteError,

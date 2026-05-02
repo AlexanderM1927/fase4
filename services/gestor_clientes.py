@@ -1,5 +1,5 @@
 from models.cliente import Cliente
-from models.excepciones import ClienteInvalidoError, ParametroFaltanteError, ClienteDuplicadoError
+from models.exceptions import ClienteInvalidoError, ParametroFaltanteError, ClienteDuplicadoError
 
 
 class GestorClientes:
