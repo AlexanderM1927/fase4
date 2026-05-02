@@ -17,7 +17,6 @@ fase4/
 ├── exceptions/
 |
 |
-|
 └── frames/
     ├── LoginFrame.py
     ├── MainFrame.py               ← Notebook con 4 pestañas + botón Demostración
