@@ -1,5 +1,6 @@
 # TEST
 
+````
 fase4/
 ├── main.py                        ← App principal (tk.Tk, navegación de frames)
 ├── utils.py                       ← Logger → logs/app.log
@@ -24,3 +25,4 @@ fase4/
     ├── ServiciosFrame.py
     ├── ReservasFrame.py
     └── LogsFrame.py               ← Visor en tiempo real de logs/app.log
+````
